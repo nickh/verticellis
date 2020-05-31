@@ -1,4 +1,6 @@
 #!/bin/sh
 
-cd $GITHUB_WORKSPACE/master
+cd $GITHUB_WORKSPACE
+ls -alR
+cd master
 ruby src/main.rb
