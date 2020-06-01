@@ -2,4 +2,4 @@
 
 cd master
 
-ruby /verticellis/main.rb
+ruby /verticellis/src/main.rb
